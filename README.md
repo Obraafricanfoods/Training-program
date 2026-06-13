@@ -1,2 +1,2 @@
-# cut-program
-cut training program
+# Training-program
+training program
